@@ -1389,7 +1389,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Biriyani As A Service](https://biriyani.anoram.com/) | Biriyani images placeholder | No | Yes | No |
 | [Dev.to](https://developers.forem.com/api) | Access Forem articles, users and other resources via API | `apiKey` | Yes | Unknown |
 | [Dictum](https://github.com/fisenkodv/dictum) | API to get access to the collection of the most inspiring expressions of mankind | No | Yes | Unknown |
-| [EQIQs Compatibility](https://eqiqs.com/api-docs) | Score compatibility between two people across 18 psychometric frameworks (MBTI, Big Five, Enneagram, DISC, attachment) | `apiKey` | Yes | Yes |
+| [EQIQs Compatibility](https://eqiqs.com/api-docs) | Compatibility scoring across 18 psychometric frameworks | `apiKey` | Yes | Yes |
 | [FavQs.com](https://favqs.com/api) | FavQs allows you to collect, discover and share your favorite quotes | `apiKey` | Yes | Unknown |
 | [FOAAS](http://www.foaas.com/) | Fuck Off As A Service | No | No | Unknown |
 | [Forismatic](http://forismatic.com/en/api/) | Inspirational Quotes | No | No | Unknown |
